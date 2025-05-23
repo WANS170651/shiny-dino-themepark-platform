@@ -3,26 +3,6 @@
 # Dino World 🦖  
 **Prehistoric Adventure Theme Park Interactive App**
 
----
-
-## 📋 Table of Contents  
-1. [Overview](#overview)  
-2. [Features](#features)  
-3. [Architecture & Implementation](#architecture--implementation)  
-   - [Global Configuration](#global-configuration)  
-   - [User Interface](#user-interface)  
-   - [Server Logic](#server-logic)  
-4. [Getting Started](#getting-started)  
-   - [Prerequisites](#prerequisites)  
-   - [Installation](#installation)  
-   - [Configuration](#configuration)  
-   - [Launch](#launch)  
-5. [Project Structure](#project-structure)  
-6. [Team](#team)  
-7. [Contact & License](#contact--license)  
-
----
-
 ## 🌟 Overview  
 **Dino World** is an interactive **R Shiny** application simulating a full-service theme-park experience. Visitors can:  
 - 🗺️ Explore an interactive map of rides, restaurants, and hotels  
