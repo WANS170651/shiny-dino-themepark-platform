@@ -81,7 +81,7 @@ This demo app showcases modern web UI/UX, responsive design, and real-world oper
 ```bash
 git clone https://github.com/yourusername/dino-world.git
 cd dino-world
-
+```
 ### Launch
 ```r
 install.packages(c(
