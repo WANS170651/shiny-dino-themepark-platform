@@ -1,5 +1,3 @@
-[![R-CMD-check](https://github.com/yourusername/dino-world/actions/workflows/check.yaml/badge.svg)](https://github.com/yourusername/dino-world/actions/workflows/check.yaml)  
-[![CRAN](https://www.r-pkg.org/badges/version/shiny)](https://cran.r-project.org/package=shiny)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 
 # Dino World 🦖  
